@@ -4,7 +4,7 @@
 3. [Movimiento] (https://martinrodriguezr.github.io/Fundamentos-1/03)
 4. [Herramienta de dibujo] (https://martinrodriguezr.github.io/Fundamentos-1/04)
 5. [Tiempo/Reloj] (https://martinrodriguezr.github.io/Fundamentos-1/05)
-5. [Tiempo/Reloj] (https://martinrodriguezr.github.io/Fundamentos-1/05/día.jpg)
+5. [Tiempo/Reloj] (https://martinrodriguezr.github.io/Fundamentos-1/05/Día.jpg)
 5. [Tiempo/Reloj] (https://martinrodriguezr.github.io/Fundamentos-1/05/Noche.jpg)
 5. [Tiempo/Reloj] (https://martinrodriguezr.github.io/Fundamentos-1/05/FlorColorMinutero_hojastalloHora.jpg)
 5. [Tiempo/Reloj] (https://martinrodriguezr.github.io/Fundamentos-1/05/PetalosCambioColorXhora.jpg)
